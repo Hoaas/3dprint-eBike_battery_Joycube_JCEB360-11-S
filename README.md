@@ -5,6 +5,11 @@ Fits my battery with a label that reads "Joycube JCEB360-11-S" used on my Momas 
 
 ![Final version with two batteries](/Pics/final.png)
 
+# Files
+* `Joycube_JCEB360-11-S.f3d`
+* `Joycube_JCEB360-11-S_prototype.3mf` <- Prototype. Sharp edges. 21 mm down to from top to bottom part
+* `Joycube_JCEB360-11-S_x2.3mf` <- v1. Round edges. 19 mm down from top to bottom part
+
 # Why
 It takes up more room laying down, and it's a bit awkward to balance it standing up.
 
@@ -23,11 +28,14 @@ The first version I printed with better quality with some "improvements" to easi
 
 ## Prototype
 ![Closeup of the bottom part of the battery 2](/Pics/prototype.png)
+
 Perfect fit!
 
 ## First version
 ![First print with proper quality, doubled up for space for two batteries](/Pics/version01.png)
+
 Rounded edges, and sier to put the battery down
 
 ![Showing battery fit into first proper print](/Pics/version01_with_battery.png)
+
 Battery is sadly leaning slightly forward. I think this should be fixed in the uploaded models, but haven't printed them myself.
